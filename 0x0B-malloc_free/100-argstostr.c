@@ -1,4 +1,4 @@
-#include <main.h>
+#include <stdlib.h>
 
 /**
  * argstostr - a function that concatenates
